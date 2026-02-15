@@ -336,6 +336,13 @@ error_reporting(E_ALL);
 
 ---
 
+## 📋 Development Tickets
+
+Live issue tracker:
+👉 https://docs.google.com/spreadsheets/d/1mLkjwIRb93xH5QLjxN9eR4sUcdO7oWMWi5P0MI_jYOE/edit?usp=sharing
+
+---
+
 # 📜 License
 
 Free to use for educational and internal projects.
